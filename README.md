@@ -16,16 +16,16 @@ You may also see any lint errors in the console.
 
 ## Get Movies With The Movie Database (TMDB) API - by popularity
 
-![home](public\movies_home.jpg)
+![home](public/movies_home.jpg)
 
 ## Get Movies With The Movie Database (TMDB) API - by search
 
-![search](public\movies_search.jpg)
+![search](public/movies_search.jpg)
 
 ## Movie Box
 
-![movie](public\movies_movie.jpg)
+![movie](public/movies_movie.jpg)
 
 ## Hover The Movie Box
 
-![hover movie](public\movies_hover.jpg)
+![hover movie](public/movies_hover.jpg)
